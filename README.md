@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 # Eduardo Dias Gusmão
 
 ## Greetings! 👋
-I'm a Mainframe Developer playing around with some new stack technologies! :computer:
+I'm a Software Engineer playing around with some new stack technologies! :computer:
 
  <!-- :rocket:  &nbsp; I'm currently working at **Banco do Brasil Tecnologia e Serviços** -->
  <br/> :purple_heart: &nbsp; Looking for collaborate with Open Source projects
