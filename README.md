@@ -12,11 +12,15 @@
 - 🧰 **COBOL dev container** (Docker + Makefile) to compile/run examples quickly
 - 📚 Small exercises and notes while sharpening fundamentals
 
+## Book
+📘 **Master COBOL** — practical notes and examples for learning COBOL.  
+https://www.mastercobol.com
+
 ## Collaboration
 - 🤝 Open to collaborating on **COBOL/Mainframe tooling**, migration utilities, and developer experience improvements.
 
 ## Contact
-- LinkedIn: https://www.linkedin.com/in/coboldeveloper/
+- LinkedIn: https://www.linkedin.com/in/coboldeveloper
 - Email: edg@outlook.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-coboldeveloper-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/coboldeveloper/)
