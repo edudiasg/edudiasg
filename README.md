@@ -4,7 +4,7 @@
 
 ## What I work with
 - **Mainframe:** COBOL, JCL, VSAM (if applicable), batch processing
-- **Languages/Tools:** COBOL, SQL, Java, REXX, Natural (Software AG)
+- **Languages/Tools:** COBOL, Rust, Java, SQL, Natural (Software AG), REXX
 - **Dev & Ops:** Linux, Docker, Makefiles, Git, CI-friendly workflows
 - **Modernization:** APIs, integrations, DevOps practices, cloud-ready architecture
 
